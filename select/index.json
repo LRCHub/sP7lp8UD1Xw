@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Boss Bitch",
+  "base_artist": "Doja Cat",
+  "createdAt": "2026-03-08T03:57:47.861669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boss Bitch (feat. Ashnikko)",
+      "artist": "Brooke Candy feat. Ashnikko",
+      "has_synced": true,
+      "path": "select/01_Boss_Bitch_(feat._Ashnikko)_Brooke_Candy_feat._Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boss Bitch (feat. Ashnikko)",
+      "artist": "Brooke Candy",
+      "has_synced": true,
+      "path": "select/02_Boss_Bitch_(feat._Ashnikko)_Brooke_Candy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Lil Baby feat. HoodRich Pablo Juan",
+      "has_synced": true,
+      "path": "select/03_Boss_Bitch_Lil_Baby_feat._HoodRich_Pablo_Juan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/04_Boss_Bitch_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/05_Boss_Bitch_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BOSS BITCH",
+      "artist": "Katja Krasavice",
+      "has_synced": true,
+      "path": "select/06_BOSS_BITCH_Katja_Krasavice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boss Bitch (feat. HoodRich Pablo Juan)",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/07_Boss_Bitch_(feat._HoodRich_Pablo_Juan)_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/08_Boss_Bitch_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/09_Boss_Bitch_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Doja Cat - Topic",
+      "has_synced": true,
+      "path": "select/10_Boss_Bitch_Doja_Cat_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/11_Boss_Bitch_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BOSS BITCH - REMIX",
+      "artist": "MOL$",
+      "has_synced": true,
+      "path": "select/12_BOSS_BITCH_-_REMIX_MOL$.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BOSS BITCH (feat. wonder)",
+      "artist": "mol$",
+      "has_synced": true,
+      "path": "select/13_BOSS_BITCH_(feat._wonder)_mol$.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Anna Wise",
+      "has_synced": true,
+      "path": "select/14_Boss_Bitch_Anna_Wise.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BOSS BITCH",
+      "artist": "Famke Louise",
+      "has_synced": true,
+      "path": "select/15_BOSS_BITCH_Famke_Louise.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Boss Bitch",
+      "artist": "Millionaires",
+      "has_synced": true,
+      "path": "select/16_Boss_Bitch_Millionaires.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Doja Cat - Boss Bitch (Lyrics)",
+      "artist": "Cakes & Eclairs",
+      "has_synced": true,
+      "path": "select/17_Doja_Cat_-_Boss_Bitch_(Lyrics)_Cakes_&_Eclairs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boss Bitch",
+      "artist": "Doja Cat",
+      "has_synced": false,
+      "path": "select/pl_01_Boss_Bitch_Doja_Cat.txt"
+    }
+  ]
+}
